@@ -1,0 +1,1 @@
+g++ -fopenmp (assignment_name).cpp -o (assignment_name)
