@@ -1,8 +1,3 @@
-/*
- * Assignment No:     02
- * Author:            Ayush-Bulbule
- * Problem Statement: Implement Min, Max, Sum, and Average operations using Parallel Reduction. Measure and compare performance with sequential equivalents.
- */
 
  #include <bits/stdc++.h>
  #include <omp.h>
